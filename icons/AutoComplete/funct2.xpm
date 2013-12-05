@@ -1,0 +1,29 @@
+/* XPM */
+static const char *funct2_xpm[] = {
+/* columns rows colors chars-per-pixel */
+"12 12 11 1",
+". c Black",
+"  c #FFFFFF",
+"& c #888888",
+"O c #9F9F9F",
+"X c #DBDBDB",
+"@ c #B7B7B7",
+"o c #F3F3F3",
+"% c #CFCFCF",
+"+ c #949494",
+"$ c #ABABAB",
+"# c #E7E7E7",
+/* pixels */
+"            ",
+"   .....Xo  ",
+"   .O+OO@#  ",
+"   .+$%%Xo  ",
+"   .O%      ",
+"   ....Xo   ",
+"   .&&O@#   ",
+"   .+$%Xo   ",
+"   .O%      ",
+"   .O%      ",
+"   X@X      ",
+"   o#o      "
+};

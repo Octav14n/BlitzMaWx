@@ -1,0 +1,28 @@
+<language lang="Deutsch">
+	<file text="&Datei">
+		<new text="" help="" shortcut="" />
+		<open text="" help="" shortcut="" />
+		<save text="" help="" shortcut="" />
+		<close text="" help="" shortcut="" />
+		<exit text="" help="" shortcut="" />
+	</file>
+	<edit text="&Bearbeiten">
+		<undo text="" help="" shortcut="" />
+		<redo text="" help="" shortcut="" />
+		<cut text="" help="" shortcut="" />
+		<copy text="" help="" shortcut="" />
+		<paste text="" help="" shortcut="" />
+	</edit>
+	<view text="&Ansicht">
+		<structur text="" help="" shortcut="" />
+	</view>
+	<build text="B&uild">
+		<stop text="" help="" shortcut="" />
+		<compilerun text="" help="" shortcut="" />
+		<lock text="" help="" shortcut="" />
+	</build>
+	<help text="&Hilfe">
+		<help text="" help="" shortcut="" />
+		<about text="" help="" shortcut="" />
+	</help>
+</language>

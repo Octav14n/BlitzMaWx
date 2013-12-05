@@ -1,0 +1,28 @@
+﻿<language lang="Deutsch">
+	<file text="&amp;Datei">
+		<new text="&amp;Neu" help="Erstellt eine neue BlitzMax Datei." shortcut="Ctrl-N" />
+		<open text="Öffnen" help="Lädt eine BlitzMax Datei." shortcut="Ctrl-O" />
+		<save text="&amp;Speichern" help="Speichert die aktuelle BlitzMax Datei." shortcut="Ctrl-S" />
+		<close text="S&amp;chließen" help="Schließt den aktuellen Tab." shortcut="Ctrl-F4" />
+		<exit text="B&amp;eenden" help="Beendet das Programm." shortcut="Ctrl-Q" />
+	</file>
+	<edit text="&amp;Bearbeiten">
+		<undo text="&amp;Rückgängig" help="Macht eine Änderung rückgängig." shortcut="Ctrl-Z" />
+		<redo text="&amp;Wiederholen" help="Stellt eine rückgängig gemachte Änderung wieder her." shortcut="Ctrl-Y" />
+		<cut text="&amp;Ausschneiden" help="Schneidet den gewählten Textbereich aus." shortcut="Ctrl-X" />
+		<copy text="&amp;Kopieren" help="Kopiert den ausgewählten Textbereich." shortcut="Ctrl-C" />
+		<paste text="&amp;Einfügen" help="Fügt den Text aus der Zwischenablage ein." shortcut="Ctrl-V" />
+	</edit>
+	<view text="&amp;Ansicht">
+		<structur text="Dateistruktur umschalten" help="Schaltet die Strukturansicht für alle Dateien Ein/Aus." shortcut="" />
+	</view>
+	<build text="B&amp;uild">
+		<stop text="&amp;Stopp" help="Stoppt die aktuell laufende Anwendung." shortcut="" />
+		<compilerun text="Compile and Run" help="..." shortcut="F5" />
+		<lock text="Lock buildfile" help="..." shortcut="" />
+	</build>
+	<help text="&amp;Hilfe">
+		<help text="&amp;Hilfe" help="Zeigt die programminterne Hilfe an." shortcut="F1" />
+		<about text="&amp;Info" help="Zeigt Informationen zu dem Programm an." shortcut="" />
+	</help>
+</language>
